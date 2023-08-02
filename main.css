@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+   } 
+   body{
+    background-image: url(https://img.freepik.com/free-vector/big-data-concept-background_52683-24459.jpg?w=740&t=st=1690764898~exp=1690765498~hmac=9beb61149f12b242fe201ed12a9a3263ef487bbf3977a76b1af28710ad8deea4);
+    width: 1118px;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    margin: 30 auto;
+    padding: 38px auto;
+   }
+   .product-list{
+    text-align: center;
+   }
+   .product-list ul li{
+    display:inline-block ;
+    color: #fff;
+    text-align: center;
+    width: 250px;
+
+   }
+   .product-list ul li p{
+    width: 100%;
+   }
+   .product-list ul li .icon{
+    font-size: 45px;
+
+   }
+   .product-list ul li .number{
+    margin-bottom: 7px;
+    font-size:43px;
+   }
